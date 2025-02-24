@@ -9,11 +9,11 @@ def print_large_digit(digit):
         digit (int): The digit to be printed as a large character.
     """
     digit_patterns = [
-        [" *** ",
+        [" === ",
          "*   *",
          "*   *",
          "*   *",
-         " *** "],
+         " === "],
         ["  *  ",
          " **  ",
          "  *  ",
